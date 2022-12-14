@@ -1,0 +1,22 @@
+﻿answer At the gym
+question Where did carol first meet susan
+answer 2 days
+question How long did Ross and Emily date before they got engaged?
+answer 3 weeks
+question How long did Ross and Emily date before they got engaged?
+answer 6 weeks
+question How long did Ross and Emily date before they got engaged?
+answer Beef
+question Which of the following ingredients were not in Rachel's iconic Thanksgiving trifle?
+answer Raisins and walnuts
+question Which of the following ingredients were not in Rachel's iconic Thanksgiving trifle?
+answer seven
+question How many brothers did Joey Tribbiani have?
+answer seven
+question How many brothers did Joey Tribbiani have?
+answer seven
+question How many sisters did Joey Tribbiani have?
+answer Gloria
+question What is the name of Phoebe's actual birth mother?
+answer Pheobe
+question What is the name of Phoebe's actual birth mother?

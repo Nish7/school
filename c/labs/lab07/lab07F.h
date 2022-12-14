@@ -1,0 +1,1 @@
+void printTable(int N, int max, int min, double avg, int sum);
